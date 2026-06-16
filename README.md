@@ -7,6 +7,7 @@ Repository ini dibuat untuk memenuhi syarat Ujian Akhir Semester (UAS) Genap TA 
 ## 🔗 Tautan Penting
 *   **Link Google Sites Portofolio**: [https://sites.google.com/view/isi-link-google-sites-anda](https://sites.google.com/view/isi-link-google-sites-anda) *(Silakan ganti dengan link Google Sites Anda setelah dipublikasikan)*
 *   **Link Video Presentasi YouTube**: *(Opsional / Tidak Wajib Sesuai Request Klien)*
+*   **Sumber Dataset Resmi**: [UCI Bank Marketing Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 
 ---
 
