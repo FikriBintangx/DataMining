@@ -1,0 +1,11 @@
+=== MODEL PERFORMANCE SUMMARY ===
+
+Random Forest Accuracy: 0.9187
+Random Forest Precision (Yes): 0.7108
+Random Forest Recall (Yes): 0.4688
+Random Forest F1-Score (Yes): 0.5649
+
+Logistic Regression Accuracy: 0.8569
+Logistic Regression Precision (Yes): 0.4347
+Logistic Regression Recall (Yes): 0.8998
+Logistic Regression F1-Score (Yes): 0.5862
